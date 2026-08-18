@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ChatGPT%20Image%20Aug%2018%2C%202026%2C%2010_26_05%20PM.png" alt="Header" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A full-stack Airbnb-inspired web application built with Node.js, Express.js, MongoDB, and EJS.</h3>
 
